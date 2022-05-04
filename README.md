@@ -1,7 +1,7 @@
 # Machine Learning Engineer (Basic) in Udacity
 
 ## Projects
-* data alynasis about different passengers on the Titanic
+* data analysis about different passengers on the Titanic
 * Predicting Boston Housing Prices
 
 
